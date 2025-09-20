@@ -26,6 +26,12 @@ La profesora a cargo es **Silvia Pérez**.
 
 - [[Significado de R y R cuadrado]]
 
+---
+## Notar de R
+
+- [[R - summary()|Función summary]].
+
+---
 ## Clase 1
 
 Sitios para buscar bases de datos:
@@ -66,8 +72,7 @@ Cada proceso de explotación de datos define un conjunto de información de entr
 
 Notas asociadas:
 
-- [[Introducción a la estadística#Tipos de variables|Variables cuantitativas y variables cualitativas]].
-- [[Explotación de datos - TP 1]]
+- [[Variables cuantitativas y cualitativas]].
 
 ---
 ## Clase 2
